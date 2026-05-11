@@ -1,4 +1,4 @@
-# 
+# premium DaVinci Resolve for macOS Script | scene-transitions + time-remapping offers the most advanced DaVinci Resolve for macOS script, with scene-transitions and time-remapping.
 
 
 
